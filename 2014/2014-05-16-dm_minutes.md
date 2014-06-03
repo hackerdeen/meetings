@@ -1,0 +1,61 @@
+### Director's Meeting
+
+16th May 2014
+
+# Present:
+
+Carl Anderson
+
+Tom Jones
+
+Ian Learmonth
+
+Tony Shannon
+
+Edward Watson
+
+# Meeting Chair:
+
+Edward Watson elected chair by unanimous vote.
+
+# Financial Report:
+
+We are good. We have money but need to pay some bills.
+
+Ed has made a handy spreadsheet to keep track of accounts. This has been distributed to the directors.
+
+# State of the Space:
+
+## Completed:
+
+2 workshops
+
+Hack n Make
+
+Theme Thursdays – but not many planned for future – need volunteers
+
+## Upcoming:
+
+Tech Fest – 21 st September
+ 
+Halloween party. Carl will be co-ordinating:
+
+- Will be in the space
+- Bring your own booze
+- Starts 7:30
+
+New Year's party. Carl will also organise this:
+
+- Will be in the space
+- Bring your own booze
+- Starts 7:30
+
+Any decorations that people want to make will be welcome.
+
+## New Member's Procedure
+
+We are now using the new member's procedure that Ed distributed to the mailing list some weeks ago. There have been no objections to this so it came into effect at 1916 .
+
+# Voting:
+
+Carl will look into voting scheme. Tony suggested opavote.org.
