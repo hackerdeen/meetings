@@ -15,6 +15,8 @@ Adittions/changes/deletions to the AoA, includes:
 - 'Starving hacker rate'
 - move to 3 directors
 - rename articles 'Space corps directives'
+- Details/draft available here:
+- https://github.com/hackerdeen/articles/blob/master/draft%202014-08-23.md
 
 Election of board members
 -------------------------
