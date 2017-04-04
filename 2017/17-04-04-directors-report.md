@@ -28,7 +28,7 @@ https://wiki.57north.org.uk/index.php/Projects:57North_ID
 
 # Places we went #
 
-## CampGND ##
+## campGND ##
 
 ## EMF ##
 
