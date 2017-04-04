@@ -32,7 +32,7 @@ https://wiki.57north.org.uk/index.php/Projects:57North_ID
 
 ## EMF ##
 
-## CCCongress ##
+## 32nd Chaos Communication Congress ##
 
 # Meetings #
 
