@@ -30,7 +30,7 @@ https://wiki.57north.org.uk/index.php/Projects:57North_ID
 
 ## campGND ##
 
-## EMF ##
+## ElectroMagnetic Field 2017 (EMF Camp)##
 
 ## 32nd Chaos Communication Congress ##
 
