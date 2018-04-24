@@ -4,6 +4,8 @@ We currently have 20 members - two new people since the last AGM.
 
 There are currently 5 members on the books who've not paid for long enough that they've almost certainly left, we just haven't got round to processing actual dismemberment for them.
 
+We average 14.5833 members marked as paid per month over the last year.
+
 # Changes to the space # 
 
 Ummm, there's some more shelves...
