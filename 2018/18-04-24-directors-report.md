@@ -19,6 +19,8 @@ https://github.com/hackerdeen/doorbot
 The network now has IPv6 on both wired and wireless network.
 The details are kind of on the wiki: https://wiki.57north.org.uk/index.php/Projects:Network
 
+Kev rebuilt the table, it is now excellently rigid. A fine job that all members are impressed with.
+
 # Events # 
 
 ## CampGND ##
