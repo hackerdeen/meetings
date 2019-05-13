@@ -18,3 +18,5 @@ be spelling.
 
 These files should be written up as markdown, because it is the best format
 for mildly structured text.
+
+The AGM process is documented on https://wiki.57north.org.uk/index.php/AGM_Process
