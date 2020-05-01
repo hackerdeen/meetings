@@ -93,6 +93,7 @@ We collectively purchased a LulzBot Mini
 
 For more info, see...
 * https://wiki.57north.org.uk/doku.php?id=projects:3d_printer
+* https://lists.57north.co/pipermail/57north-discuss/2019-August/003281.html
 * https://lists.57north.co/pipermail/57north-announce/2019-August/000478.html
 
 
