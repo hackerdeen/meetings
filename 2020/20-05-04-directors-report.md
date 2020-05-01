@@ -21,6 +21,7 @@ Directors' Report required for 2019-2020 #14
 * We had to move from the Engage Space
 * We moved from the Engage Space to Kettock Lodge
 * We looked at a variety of possible locations, see https://wiki.57north.org.uk/doku.php?id=possible_future_space 
+* Partitioning of the space is still ongoing https://wiki.57north.org.uk/doku.php?id=projects:partitioning_furniture
 
 
 
