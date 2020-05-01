@@ -12,7 +12,7 @@ Directors' Report required for 2019-2020 #14
 * We currently have 16 members on our register
 * We 9 members who have paid for all of the last 3 months
 * We have an average paying member count of TBC (last 3-month avg)
-* 11 members can be classified as both non-paying and absent, so are therefore due for dismemberment 
+* TBC members can be classified as both non-paying and absent, so are therefore due for dismemberment 
 * The board acknowledges a number of house-keeping actions have fallen due (such as dismemberment) and resolve to move on these tasks once a full board has been chosen.
  
  
