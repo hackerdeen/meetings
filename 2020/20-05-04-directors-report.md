@@ -1,7 +1,13 @@
 Directors Report 05/05/20
 ----------------
 
-just adding content, work in progress
+
+## Work in progress
+Just adding content, work in progress
+Directors' Report required for 2019-2020 #14 
+
+
+
 
 ## 0) State of the Membership
 * We currently have TBC members on our register
@@ -14,7 +20,6 @@ just adding content, work in progress
 ## 1) We moved to the Kettock Lodge
 * We had to move from the Engage Space
 * We moved from the Engage Space to Kettock Lodge
-
 * We looked at a variety of possible locations, see https://wiki.57north.org.uk/doku.php?id=possible_future_space 
 
 
