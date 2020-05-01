@@ -83,6 +83,19 @@ For more info, see...
 
 
 
-## 9) 
- 
- etc
+## 9) Workshops and programs
+Aside from the excellent Air Quality the hackspace was not really involved in any workshops or programs in the last 12 months.
+
+
+
+## 10) Equipment
+We collectively purchased a LulzBot Mini
+
+For more info, see...
+* https://wiki.57north.org.uk/doku.php?id=projects:3d_printer
+* https://lists.57north.co/pipermail/57north-announce/2019-August/000478.html
+
+
+ ## 11) Anything else...
+
+ Um, TBC
