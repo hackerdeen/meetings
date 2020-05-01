@@ -96,6 +96,8 @@ For more info, see...
 * https://lists.57north.co/pipermail/57north-announce/2019-August/000478.html
 
 
- ## 11) Anything else...
+
+## 11) Anything else...
+ 
 
  Um, TBC
