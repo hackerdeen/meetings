@@ -116,7 +116,15 @@ For more info, see...
 * https://lists.57north.co/pipermail/57north-announce/2019-August/000478.html
 
 
+## 11) Events
+Some 57N events occurred
+* CampGND: was a fun event, despite the wet weather, well attended by members and others.  There was a good write up of it at https://hackaday.com/2019/06/15/the-smallest-hacker-camps-are-the-most-satisfying-and-you-can-do-one-too/
+* NorthernRST: went really well, props to Tom and Hibby for organising
 
-## 11) Anything else...
+## 12) Publications
+* There was a great article in Hackspace Magazine, written by Tom
+
+
+## 13) Anything else...
  
 Um, TBC
