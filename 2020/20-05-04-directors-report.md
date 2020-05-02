@@ -37,17 +37,17 @@ Positives of the Kettock Lodge space:
 * We have way more space, an increase from ~37m2 to ~200m2.
 * Ample parking.
 * Very good value, much less that the ~£4000 p/a we paid for the Engage Space.
-* Nice clean and easy to maintain envoroment.
+* Nice clean and easy to maintain environment.
 
 Negatives of the Kettock Lodge space:
 * Not a city center location.
 * No easy doorbot access.
-* Not really possible to do more messey workshop activities.
+* Not really possible to do more messy workshop activities.
  
  
  
 ## 3) We have been doing our own books
-For over a year now we have been doing our own Accounting.  In practice, previously we were doing the book-keeping ourselves and an accounting was doing the HMRC submissions for us.  This has been positive in that we save quite a lot of money, I think ~£900 p/a.  It has been negative in that it has caused stress and aniety to those involved.  We had one submission that failed due to an issue with HRMC registration credentials, which caused us to be fined for late submission, this is described in more detail in the next point. 
+For over a year now we have been doing our own Accounting.  In practice, previously we were doing the book-keeping ourselves and an accounting was doing the HMRC submissions for us.  This has been positive in that we save quite a lot of money, I think ~£900 p/a.  It has been negative in that it has caused stress and anxiety to those involved.  We had one submission that failed due to an issue with HRMC registration credentials, which caused us to be fined for late submission, this is described in more detail in the next point. 
  
  
  
@@ -74,14 +74,14 @@ For more info, see...
 
 Our last Open Tuesday was March 10th as discussed in https://lists.57north.co/pipermail/57north-announce/2020-March/000531.html and https://lists.57north.co/pipermail/57north-discuss/2020-March/003503.html
 
-We have been doing more online activivities.
+We have been doing more online activities.
 
 Remote activities
 * Mumble
 * Hack & tell
 * IRC
 
-Some members have been using the space during this perio, not really sure to what extent though.
+Some members have been using the space during this period, not really sure to what extent though.
   
 
  
