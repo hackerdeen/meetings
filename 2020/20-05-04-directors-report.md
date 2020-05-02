@@ -3,10 +3,11 @@ Directors Report 05/05/20
 
 
 
-## Work in progress
+## This Directors Report is Work in progress
 * Just adding content, work in progress, this report is not complete.
 * AGM Process: https://wiki.57north.org.uk/doku.php?id=admin:agm_process
 * Issue: Directors' Report required for 2019-2020 #14 https://github.com/hackerdeen/meetings/issues/14
+* It will be completed before the meeting on May 4th
 
 
 
