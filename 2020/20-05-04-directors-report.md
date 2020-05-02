@@ -2,16 +2,18 @@ Directors Report 05/05/20
 ----------------
 
 
+
 ## Work in progress
-Just adding content, work in progress
-Directors' Report required for 2019-2020 #14 
+* Just adding content, work in progress, this report is not complete.
+* AGM Process: https://wiki.57north.org.uk/doku.php?id=admin:agm_process
+* Issue: Directors' Report required for 2019-2020 #14 https://github.com/hackerdeen/meetings/issues/14
 
 
 
 ## 0) State of the Membership
 * We currently have 16 members on our register
 * We 9 members who have paid for all of the last 3 months
-* We have an average paying member count of TBC (last 3-month avg)
+* We have an average paying member count of 9.6 (last 3-month avg)
 * TBC members can be classified as both non-paying and absent, so are therefore due for dismemberment 
 * The board acknowledges a number of house-keeping actions have fallen due (such as dismemberment) and resolve to move on these tasks once a full board has been chosen.
  
@@ -26,9 +28,20 @@ Directors' Report required for 2019-2020 #14
 
 
 ## 2) The current situation in Kettock Lodge
-* We now have more space TBC m2, up from ~TBC m2
+* We now have more space, increased from the initial ~100m2 to ~200m2
 * We are currently paying £TBC per quarter in rent
 * We are currently paying £TBC per quarter in bills
+
+Positives of the Kettock Lodge space:
+* We have way more space, an increase from ~37m2 to ~200m2.
+* Ample parking.
+* Very good value, much less that the ~£4000 p/a we paid for the Engage Space.
+* Nice clean and easy to maintain envoroment.
+
+Negatives of the Kettock Lodge space:
+* Not a city center location.
+* No easy doorbot access.
+* Not really possible to do more messey workshop activities.
  
  
  
@@ -44,27 +57,32 @@ We initially submitted a joint companies house and corporation tax via the onlin
   
 ## 5) Wiki Move
 
-Mailing list discussions...
 In April the wiki was moved from an old server using MediaWiki, to a new server, using DocuWiki.  The change of server was due to the old server being EOL. The change of wiki system was to simplify the hosting, operation and maintenance of the wiki.  The move is still a work in progress, to a degree, as we are yet to get the imported images in place.
+
+The new wiki is at the same URL as before, https://wiki.57north.org.uk
+
+There is an archive of the old wiki at https://hackerdeen.github.io/57n-web-archive.github.io/mediawiki/index.php/Main_Page.html
 
 For more info, see...
 * https://lists.57north.co/pipermail/57north-discuss/2020-March/003509.html
 * https://lists.57north.co/pipermail/57north-discuss/2020-April/003530.html
 
  
- 
- 
+
 ## 6) Operating in a COVID-19 world
 
-Our last Open Tuesday was March 10th - https://lists.57north.co/pipermail/57north-announce/2020-March/000531.html
-https://lists.57north.co/pipermail/57north-discuss/2020-March/003503.html
+Our last Open Tuesday was March 10th as discussed in https://lists.57north.co/pipermail/57north-announce/2020-March/000531.html and https://lists.57north.co/pipermail/57north-discuss/2020-March/003503.html
+
+We have been doing more online activivities.
 
 Remote activities
 * Mumble
 * Hack & tell
 * IRC
 
+Some members have been using the space during this perio, not really sure to what extent though.
   
+
  
 ## 7) Possibility of moving to charitable status
 We have previously discussed the advantages and disadvantages of moving to being a charity.  This is still on the table, as an idea, but we've not moved forward with it really. 
@@ -100,5 +118,4 @@ For more info, see...
 
 ## 11) Anything else...
  
-
- Um, TBC
+Um, TBC
