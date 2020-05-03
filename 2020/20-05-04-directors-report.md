@@ -135,6 +135,11 @@ Some 57N related events occurred
 
 
 
-## 13) Anything else...
+## 13) Remote or distant members
+This was discussed at the previous AGM.  We've not made any progress of formalising this really.  I think all agreed it is generally a good idea, in some form or other.
+
+
+
+## 14) Anything else...
  
 Um, TBC
