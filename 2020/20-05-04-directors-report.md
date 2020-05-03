@@ -23,15 +23,16 @@ Directors Report 05/05/20
 ## 1) We moved to the Kettock Lodge
 * We had to move from the Engage Space
 * We moved from the Engage Space to Kettock Lodge
-* We looked at a variety of possible locations, see https://wiki.57north.org.uk/doku.php?id=possible_future_space 
-* Partitioning of the space is still ongoing https://wiki.57north.org.uk/doku.php?id=projects:partitioning_furniture
+* We looked at a variety of possible locations, see https://wiki.57north.org.uk/doku.php?id=possible_future_space  or https://hackerdeen.github.io/57n-web-archive.github.io/mediawiki/index.php/Possible_Future_Space.html
+* Partitioning of the space is still ongoing https://wiki.57north.org.uk/doku.php?id=projects:partitioning_furniture or https://hackerdeen.github.io/57n-web-archive.github.io/mediawiki/index.php/Projects_Partitioning_Furniture.html
 
 
 
 ## 2) The current situation in Kettock Lodge
-* We now have more space, increased from the initial ~100m2 to ~200m2
-* We are currently paying £TBC per quarter in rent
-* We are currently paying £TBC per quarter in bills
+* It has taken a while to clarify things like bills and lease details.
+* We now have more space, increased from the initial ~100m2 to ~200m2, after the retro games club moved and the mens' shed moved out.
+* We are currently paying £TBC per quarter in rent.
+* We are currently paying £TBC per quarter in bills.
 
 Positives of the Kettock Lodge space:
 * We have way more space, an increase from ~37m2 to ~200m2.
@@ -43,16 +44,18 @@ Negatives of the Kettock Lodge space:
 * Not a city center location.
 * No easy doorbot access.
 * Not really possible to do more messy workshop activities.
+* In terms of space and cost it will be hard to find anything similar, if we are required to move in future.
+* There have been some issues with smoke alarms, but we are now working around this
  
  
  
 ## 3) We have been doing our own books
-For over a year now we have been doing our own Accounting.  In practice, previously we were doing the book-keeping ourselves and an accounting was doing the HMRC submissions for us.  This has been positive in that we save quite a lot of money, I think ~£900 p/a.  It has been negative in that it has caused stress and anxiety to those involved.  We had one submission that failed due to an issue with HRMC registration credentials, which caused us to be fined for late submission, this is described in more detail in the next point. 
+For over a year now we have been doing our own Accounting.  In practice, previously we were doing the book-keeping ourselves and an accounting was doing the HMRC submissions for us.  This has been positive in that we save quite a lot of money, I think ~£900 p/a.  It has been negative in that it has caused stress and anxiety to those involved.  We had one submission that failed due to an issue with HRMC registration credentials, which caused us to be fined for late submission, this is described in more detail in the next point. Many thanks to Ed for work on the bookkeeping and patience re tax issues. 
  
  
  
 ## 4) Tax/HMRC Discussions
-We initially submitted a joint companies house and corporation tax via the online system at gov.uk in October 2018.  At the time the joint submission seemed to complete and process successfully.  Several months later we realised that only the companies house portion of the submission had been processed.  It seems that the Gov ID we were using was not activated for HMRC submissions, only companies house, though there was no indication that this was the case at the time.  After phoning HMRC and discussing it, we attempted to submit online again.  To register the Gov ID for use with HMRC we attempted to register the account with HMRC, via a posted out code.  Unfortunately at the time we were having trouble receiving mail in a timely way, due to the all mail going via our host premises at Engage.  Despite several online requests for posted out codes, we were unable to receive and use them before they expired.  We then moved to a Kettock Lodge, where we no longer had issues receiving post.  We have subsequently submitted our CT600 and related documents to complete the FY2017/18 submission.  We received two fines of £100 each for late submission.  We appealed the fines, that total £200, as suggested by the HMRC helpline.  The appeal preocess is due to be complete, we are just waiting receive notification of it's result.
+We initially submitted a joint companies house and corporation tax via the online system at gov.uk in October 2018.  At the time the joint submission seemed to complete and process successfully.  Several months later we realised that only the companies house portion of the submission had been processed.  It seems that the Gov ID we were using was not activated for HMRC submissions, only companies house, though there was no indication that this was the case at the time.  After phoning HMRC and discussing it, we attempted to submit online again.  To register the Gov ID for use with HMRC we attempted to register the account with HMRC, via a posted out code.  Unfortunately at the time we were having trouble receiving mail in a timely way, due to the all mail going via our host premises at Engage.  Despite several online requests for posted out codes, we were unable to receive and use them before they expired.  We then moved to a Kettock Lodge, where we no longer had issues receiving post.  We have subsequently submitted our CT600 and related documents to complete the FY2017/18 submission.  We received two fines of £100 each for late submission.  We appealed the fines, that total £200, as suggested by the HMRC helpline.  The appeal preocess is due to be completed, we are just waiting receive notification of it's result.
 
  
   
@@ -112,6 +115,7 @@ We collectively purchased a LulzBot Mini
 
 For more info, see...
 * https://wiki.57north.org.uk/doku.php?id=projects:3d_printer
+* https://hackerdeen.github.io/57n-web-archive.github.io/mediawiki/index.php/Projects_LulzBot_Mini_3D_Printer.html
 * https://lists.57north.co/pipermail/57north-discuss/2019-August/003281.html
 * https://lists.57north.co/pipermail/57north-announce/2019-August/000478.html
 
@@ -120,7 +124,9 @@ For more info, see...
 ## 11) Events
 Some 57N related events occurred
 * CampGND: was a fun event, despite the wet weather, well attended by members and others.  There was a good write up of it at https://hackaday.com/2019/06/15/the-smallest-hacker-camps-are-the-most-satisfying-and-you-can-do-one-too/
-* NorthernRST: went really well, props to Tom and Hibby for organising
+* Some members went to CCC
+* Some members went to EMF Camp
+* NorthernRST: went really well, props to Tom and Hibby for organising. See https://northernrst.com/
 
 
 
