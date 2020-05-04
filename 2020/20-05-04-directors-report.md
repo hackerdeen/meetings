@@ -23,7 +23,7 @@ Directors' Report 04/05/20
 ## 2) The current situation in Kettock Lodge
 * It has taken a while to clarify things like bills and lease details.
 * We now have more space, increased from the initial ~100m2 to ~200m2, after the retro games club moved and the mens' shed moved out.
-* We are currently paying £400 per quarter in bills.
+* We are currently paying £200 per quarter in bills.
 
 Positives of the Kettock Lodge space:
 * We have way more space, an increase from ~37m2 to ~200m2.
