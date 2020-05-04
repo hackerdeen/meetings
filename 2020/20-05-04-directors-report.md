@@ -5,14 +5,14 @@ Directors' Report 04/05/20
 
 ## 0) State of the Membership
 * We currently have 16 members on our register
-* We 9 members who have paid for all of the last 3 months
+* We have 9 members who have paid for all of the last 3 months
 * We have an average paying member count of 9.6 (last 3-month avg)
 * TBC members can be classified as both non-paying and absent, so are therefore due for dismemberment 
 * The board acknowledges a number of house-keeping actions have fallen due (such as dismemberment) and resolve to move on these tasks once a full board has been chosen.
  
  
  
-## 1) We moved to the Kettock Lodge
+## 1) We moved to the Kettock Lodge location
 * We had to move from the Engage Space
 * We moved from the Engage Space to Kettock Lodge
 * We looked at a variety of possible locations, see https://wiki.57north.org.uk/doku.php?id=possible_future_space  or https://hackerdeen.github.io/57n-web-archive.github.io/mediawiki/index.php/Possible_Future_Space.html
@@ -46,7 +46,7 @@ For over a year now we have been doing our own Accounting.  In practice, previo
  
  
 ## 4) Tax/HMRC Discussions
-We initially submitted a joint companies house and corporation tax via the online system at gov.uk in October 2018.  At the time the joint submission seemed to complete and process successfully.  Several months later we realised that only the companies house portion of the submission had been processed.  It seems that the Gov ID we were using was not activated for HMRC submissions, only companies house, though there was no indication that this was the case at the time.  After phoning HMRC and discussing it, we attempted to submit online again.  To register the Gov ID for use with HMRC we attempted to register the account with HMRC, via a posted out code.  Unfortunately at the time we were having trouble receiving mail in a timely way, due to the all mail going via our host premises at Engage.  Despite several online requests for posted out codes, we were unable to receive and use them before they expired.  We then moved to a Kettock Lodge, where we no longer had issues receiving post.  We have subsequently submitted our CT600 and related documents to complete the FY2017/18 submission.  We received two fines of £100 each for late submission.  We appealed the fines, that total £200, as suggested by the HMRC helpline.  The appeal preocess is due to be completed, we are just waiting receive notification of it's result.
+We initially submitted a joint companies house and corporation tax via the online system at gov.uk in October 2018.  At the time the joint submission seemed to complete and process successfully.  Several months later we realised that only the companies house portion of the submission had been processed.  It seems that the Gov ID we were using was not activated for HMRC submissions, only companies house, though there was no indication that this was the case at the time.  After phoning HMRC and discussing it, we attempted to submit online again.  To register the Gov ID for use with HMRC we attempted to register the account with HMRC, via a posted out code.  Unfortunately at the time we were having trouble receiving mail in a timely way, due to the all mail going via our host premises at Engage.  Despite several online requests for posted out codes, we were unable to receive and use them before they expired.  We then moved to a Kettock Lodge, where we no longer had issues receiving post.  We have subsequently submitted our CT600 and related documents to complete the FY2017/18 submission.  We received two fines of £100 each for late submission.  We appealed the fines, that total £200, as suggested by the HMRC helpline.  The appeal process is due to be completed, we are just waiting receive notification of it's result.
 
  
   
