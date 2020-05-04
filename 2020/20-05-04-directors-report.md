@@ -1,4 +1,4 @@
-Directors Report 05/05/20
+Directors' Report 05/05/20
 ----------------
 
 
@@ -131,7 +131,7 @@ Some 57N related events occurred
 
 
 ## 12) Publications
-* There was a great article in Hackspace Magazine, written by Tom
+* There was a great article in Hackspace Magazine, written by Tom.  There are paper copies of the issue in the space. It was also published at https://hackspace.raspberrypi.org/articles/space-of-the-month-57north-hacklab
 
 
 
