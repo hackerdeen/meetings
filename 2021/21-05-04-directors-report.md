@@ -30,7 +30,8 @@ Remote activities
 
 ## 3) Books, Tax and HMRC
 * We're still doing our own books, this saves us ~£500 in accounting fees, so is still good.
-* We are now recognised and tax exempt for the next 5 years (till April 2026). HMRC repaid the £200 in fines that we'd previously paid them.
+* We are now recognised and tax exempt for the next 5 years (till April 2026). 
+* HMRC repaid the £200 in fines that we'd previously paid them.
 
 
 ## 4) Space at kettock lodge
