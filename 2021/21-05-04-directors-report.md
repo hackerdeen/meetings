@@ -30,7 +30,7 @@ Remote activities
 
 ## 3) Books, Tax and HMRC
 * We're still doing our own books, this saves us ~£500 in accounting fees, so is still good.
-* We are now recognised and tax exempt for the next 5 years (till April 2026). 
+* We are now recognised as tax dormant to HMRC. This status will last either until April 2026 or until income deriving from non-member sources execeeds an annual corporation tax liability of £100, whichever occurs first. 
 * HMRC repaid the £200 in fines that we'd previously paid them.
 
 
