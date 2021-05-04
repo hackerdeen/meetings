@@ -53,7 +53,7 @@ For more info, see...
 
 
 ## 7) Workshops and programs
-We've not done much in regard to this, due to lockdowns. Hopefully this will be something we can do more of in the next 12 months. There is potential for more collaborations with the Aberdeen Science Center, in it's new expanded location.  We'll try to look at other potential colaborations.
+We've not done much in regard to this, due to lockdowns. Hopefully this will be something we can do more of in the next 12 months. There is potential for more collaborations with the Aberdeen Science Center, in it's new expanded location.  We'll try to look at other potential collaborations.
 
 
 ## 8) Publications
