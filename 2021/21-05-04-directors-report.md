@@ -65,12 +65,12 @@ We've not done anything re this, far as I know.
 This was discussed at the previous AGM. We've not made any progress of formalising this really. I think all agreed it is generally a good idea, in some form or other. The status is pretty much the same as last year.
 
 
-## 10) CampGND
-* CampGND is an online event again this year, on the 28-30th May 2021
-* The CampGND site https://campgnd.com/
-* CampGND on Twitter https://twitter.com/campgnd
-* CampGND talks as videos from last year https://www.youtube.com/channel/UC461YdqBMfjBa_1W5izjrRQ
-* CampGND is loosly afiliated with the hackspace
+## 10) campGNDd
+* campGNDd is an online event again this year, on the 28-30th May 2021
+* The campGNDd site https://campgnd.com/
+* campGNDdd on Twitter https://twitter.com/campgnd
+* campGNDd talks as videos from last year https://www.youtube.com/channel/UC461YdqBMfjBa_1W5izjrRQ
+* campGND is loosly afiliated with the hackspace
 
 
 ## 11) Links and refs
