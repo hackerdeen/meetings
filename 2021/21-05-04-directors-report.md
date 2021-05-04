@@ -5,8 +5,8 @@ Directors' Report 04/05/21
 
 ## 0) State of the Membership
 * We currently have 16 members on our register
-* We have 9 members who have paid for all of the last 3 months
-* TBC members can be classified as both non-paying and absent, so are therefore due for dismemberment
+* We have 7 members who have paid for all of the last 3 months
+* 4 members can be classified as both non-paying and absent, so are therefore due for dismemberment
 * The board acknowledges a number of house-keeping actions have fallen due (such as dismemberment) and resolve to move on these tasks once a full board has been chosen.
  
 
@@ -29,7 +29,7 @@ Remote activities
 
 
 ## 3) Books, Tax and HMRC
-* We're still doing our own books, this saves us ~£900 in accounting fees, so is still good.
+* We're still doing our own books, this saves us ~£500 in accounting fees, so is still good.
 * We are not recognised and tax exempt for the next 5 years (till April 2026). HMRC repaid the £200 in fines that we'd previously paid them.
 
 
