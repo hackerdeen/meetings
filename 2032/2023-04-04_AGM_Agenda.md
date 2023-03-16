@@ -6,7 +6,7 @@ Situated in the Hacklab's space in Suite H, Kettock Lodge, Innovation Park, Camp
 ## Agenda for the meeting
 
 1. Election of meeting chair
-2. Previous AGM minutes
+2. Previous AGM minutes, see https://github.com/hackerdeen/meetings/blob/master/2021/2021-05-04%20AGM%20Minutes.md
 3. Report on activities since last AGM
 4. Treasurer's report
 5. Update Article 22 - ending membership if subscription paymants lapse, https://github.com/hackerdeen/articles/issues/1
