@@ -9,14 +9,14 @@ Agenda for the meeting:
 2. Previous AGM minutes
 3. Report on activities since last AGM
 4. Treasurer's report
-5. Notable discussion topic X
-6. Notable discussion topic Y
-7. Update Article 22 - ending membership if subscription paymants lapse, https://github.com/hackerdeen/articles/issues/1
-8. Propose membership secretary, see https://github.com/hackerdeen/articles/issues/2
-9. Change artcles so the AGM doesn't have to be in April, see https://github.com/hackerdeen/articles/issues/3
-10. Simplify the membership application process, see https://github.com/hackerdeen/articles/issues/4
-11. Remove binary pronouns from articles, see https://github.com/hackerdeen/articles/issues/5
-12. Create a fascility for remote members
+5. Update Article 22 - ending membership if subscription paymants lapse, https://github.com/hackerdeen/articles/issues/1
+6. Propose membership secretary, see https://github.com/hackerdeen/articles/issues/2
+7. Change artcles so the AGM doesn't have to be in April, see https://github.com/hackerdeen/articles/issues/3
+8. Simplify the membership application process, see https://github.com/hackerdeen/articles/issues/4
+9. Remove binary pronouns from articles, see https://github.com/hackerdeen/articles/issues/5
+10. Create a facility for remote members
+11. ...
+12. ...
 13. Election of directors
 14. Any Other Competent Business
 
