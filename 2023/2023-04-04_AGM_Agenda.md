@@ -14,7 +14,7 @@ Situated in the Hacklab's space in Suite H, Kettock Lodge, Innovation Park, Camp
 7. Change artcles so the AGM doesn't have to be in April, see https://github.com/hackerdeen/articles/issues/3
 8. Simplify the membership application process, see https://github.com/hackerdeen/articles/issues/4
 9. Remove binary pronouns from articles, see https://github.com/hackerdeen/articles/issues/5
-10. Create a facility for remote members, see https://github.com/hackerdeen/articles/issues/7
+10. Create a facility for remote membership, see https://github.com/hackerdeen/articles/issues/7
 11. ...
 12. ...
 13. Election of directors
