@@ -15,8 +15,7 @@ Situated in the Hacklab's space in Suite H, Kettock Lodge, Innovation Park, Camp
 8. Simplify the membership application process, see https://github.com/hackerdeen/articles/issues/4
 9. Remove binary pronouns from articles, see https://github.com/hackerdeen/articles/issues/5
 10. Create a facility for remote membership, see https://github.com/hackerdeen/articles/issues/7
-11. ...
-12. ...
+11. Set fee for remote membership
 13. Election of directors
 14. Any Other Competent Business
 
