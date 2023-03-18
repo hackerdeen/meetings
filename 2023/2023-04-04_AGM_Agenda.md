@@ -11,7 +11,7 @@ Situated in the Hacklab's space in Suite H, Kettock Lodge, Innovation Park, Camp
 4. Treasurer's report
 5. Update Article 22 - ending membership if subscription paymants lapse, https://github.com/hackerdeen/articles/issues/1
 6. Propose membership secretary, see https://github.com/hackerdeen/articles/issues/2
-7. Change artcles so the AGM doesn't have to be in April, see https://github.com/hackerdeen/articles/issues/3
+7. Change articles so the AGM doesn't have to be in April, see https://github.com/hackerdeen/articles/issues/3
 8. Simplify the membership application process, see https://github.com/hackerdeen/articles/issues/4
 9. Remove binary pronouns from articles, see https://github.com/hackerdeen/articles/issues/5
 10. Create a facility for remote membership, see https://github.com/hackerdeen/articles/issues/7
