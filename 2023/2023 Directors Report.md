@@ -15,7 +15,7 @@ Directors Report 2021-2023
 ## 2) Books, Tax & HMRC
 - We're still doing our own books, this saves us ~£500 in accounting fees, so is still good.  Thanks Andy and irl.
 - We are now recognised as tax dormant to HMRC. This status will last either until April 2026 or until income deriving from non-member sources execeeds an annual corporation tax liability of £100, whichever occurs first.  This saves a lot of stress and paperwork.
-- The only reporting obligation we have is with compabnies house.  Full details are provided by the Treasurers Report.
+- The only reporting obligation we have is with companies house.  Full details are provided by the Treasurers Report.
 
 ## 3) Costs and Overheads
 Discussions are ongoing with Aberdeen Action On Disability about bills.  Costs related to this will fall in the finacial year 2023-2024.  We will need to settle bills for the last aproximatly two years, in addition to ongoing costs.  These are higher than they were historicaly, due to the global increase in energy costs.  We face no other significant costs.
@@ -65,3 +65,4 @@ Some useful links and references:
 - 2021 year's AGM minutes -  https://github.com/hackerdeen/meetings/blob/master/2021/2021-05-04%20AGM%20Minutes.md
 - 2021 year's Directors report -  https://github.com/hackerdeen/meetings/blob/master/2021/21-05-04-directors-report.md
 - 2021 year's treasurer's report - https://github.com/hackerdeen/meetings/blob/master/2021/Treasurers%20Report%20-%20YE%2028th%20February%202021.pdf
+- Our listing on Companies House - https://find-and-update.company-information.service.gov.uk/company/SC470230
