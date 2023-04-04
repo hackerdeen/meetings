@@ -53,7 +53,7 @@ A whole new collection of kit has arrived in the space. Thank you to all contrib
 - and so much more
 
 ## 8) Remote or Distant Members
-This is discussed at this AGM.
+A proposal is in place, to be discussed at this AGM.
 
 ## 9) Events
 Some members went to EMF Camp and had an awesome time (according to rumours).
