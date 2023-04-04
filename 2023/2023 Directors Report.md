@@ -13,7 +13,7 @@ Winter party 2022 was a roaring success. Thanks go to Q for making it so busy an
 We are still recognised as tax dormant to HMRC, which saves a lot of stress and paperwork. This means the only reporting obligation we have is with compabnies house.  Full details are provided by the Treasurers Report.
 
 ## 3) Costs and overheads
-Discussions are ongoing with Aberdeen Action On Disability about bills.  Costs related to this will fall in the finacial year 2023-2024.
+Discussions are ongoing with Aberdeen Action On Disability about bills.  Costs related to this will fall in the finacial year 2023-2024.  We will need to settle bills for the last aproximatly two years, in addition to ongoing costs.  These are higher than they were historicaly, due to the global increase in energy costs.  We face no other significant costs.
 
 ## 4) Funding and Grants
 Vishnee pulled together a funding application for Just Transition Participatory Budgeting, and we were dismayed to learn this amounted to a popularity contest and public vote. Thanks for your efforts, and the information gathered/text written will help us in future endeavours. 
