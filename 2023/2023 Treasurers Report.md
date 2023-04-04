@@ -6,7 +6,7 @@ Treasurers Report
 This treasurers report covers two financial years, the period from the 1st of March 2021 to the 28th of Febuary 2023.
 
 We are still recognised as tax dormant to HMRC. This status will last either until April 2026 or until income 
-deriving from non-member sources execeeds an annual corporation tax liability of £100, whichever occurs first.
+deriving from non-member sources execeed an annual corporation tax liability of £100, whichever occurs first.
 
 We've had some issues with the bank, but those are more or less resolved now.  This, and the fact we didn't have an AGM last year, have made it more complex to do the financials than usual.
 
@@ -14,10 +14,10 @@ We've had some issues with the bank, but those are more or less resolved now.  T
 ## Financial Summary
 
 * Starting balance, 1st March 2021: £4687.00
-* Income 1st March 2021 to 28th Feb 2022: £2620.00
+* Income 1st March 2021 to 28th Feb 2022: £2590.00
 * Expenditure 1st March 2021 to 28th Feb 2022: £28.35
 * Balance, 1st March 2022: £7020.74
-* Income 1st March 2022 to 28th Feb 2023: £3251.00
+* Income 1st March 2022 to 28th Feb 2023: £2351.00
 * Expenditure 1st March 2022 to 28th Feb 2023: £24:15
 * Balance, 1st March 2023: £9347.59
 
