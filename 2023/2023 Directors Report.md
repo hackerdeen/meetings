@@ -10,16 +10,20 @@ We currently have 12 members paying regularly, resulting in a monthly income of 
 Winter party 2022 was a roaring success. Thanks go to Q for making it so busy and inviting their friends who helped remind some of us why running a hackerspace is such good fun.
 
 ## 2) Books Tax & HMRC
+We are still recognised as tax dormant to HMRC, which saves a lot of stress and paperwork. This means the only reporting obligation we have is with compabnies house.  Full details are provided by the Treasurers Report.
 
-## 3) Funding and Grants
+## 3) Costs and overheads
+Discussions are ongoing with Aberdeen Action On Disability about bills.  Costs related to this will fall in the finacial year 2023-2024.
+
+## 4) Funding and Grants
 Vishnee pulled together a funding application for Just Transition Participatory Budgeting, and we were dismayed to learn this amounted to a popularity contest and public vote. Thanks for your efforts, and the information gathered/text written will help us in future endeavours. 
 
-## 4) Workshops & Outreach
+## 5) Workshops & Outreach
 Midder has been very active in recruiting new faces through the social center and alternative freshers fair, thank you for your efforts.
 We'd like more regular faces to become members and to recruit new faces so there is a fresh flow of new people and income to keep us stable.
 Any efforts on recruitment would be greatly appreciated. irl put in good work on updating the membership process and we generally agree this needs simplified and what you're signing up for has to be more clearly signposted.
 
-## 5) Digital Infrastructure
+## 6) Digital Infrastructure
 Lots of things were rationalised and restarted this year.
 garioch.57north.org.uk was retired, thank you for your service. 
 
@@ -34,3 +38,4 @@ Outstanding projects that need volunteers to look at:
   * Modernising/updating hackhub to allow simple edits like adding admin-permissions checkbox and allowing users to change address
   * Migrating hub to a more modern server and allowing a print out of the list of registers
   * Making the website a static site with more relevant information 
+
