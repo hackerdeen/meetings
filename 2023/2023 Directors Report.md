@@ -23,7 +23,7 @@ Discussions are ongoing with Aberdeen Action On Disability about bills.  Costs r
 ## 4) Funding and Grants
 Vishnee pulled together a funding application for Just Transition Participatory Budgeting, and we were dismayed to learn this amounted to a popularity contest and public vote. Thanks for your efforts, and the information gathered/text written will help us in future endeavours. 
 
-## 5) Workshops & Outreach
+## 5) Workshops, Programs & Outreach
 Midder has been very active in recruiting new faces through the social center and alternative freshers fair, thank you for your efforts.
 We'd like more regular faces to become members and to recruit new faces so there is a fresh flow of new people and income to keep us stable.
 Any efforts on recruitment would be greatly appreciated. irl put in good work on updating the membership process and we generally agree this needs simplified and what you're signing up for has to be more clearly signposted.  Hopefully workshops will be something we can do more of in the next 12 months. 
