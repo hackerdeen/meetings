@@ -59,7 +59,7 @@ This is discussed at this AGM.
 Some members went to EMF Camp and had an awesome time (according to rumours).
 
 ## 10) Links and refs
-AGM anouncement - https://lists.57north.org.uk/mailman3/hyperkitty/list/57north-announce@lists.57north.org.uk/thread/ZVGI66Z6E743WHFQRTOCR6UY6Y62ZH5W/
-Last year's AGM minutes -  https://github.com/hackerdeen/meetings/blob/master/2021/2021-05-04%20AGM%20Minutes.md
-2021 year's Directors report -  https://github.com/hackerdeen/meetings/blob/master/2021/21-05-04-directors-report.md
-Last year's treasurer's report - https://github.com/hackerdeen/meetings/blob/master/2021/Treasurers%20Report%20-%20YE%2028th%20February%202021.pdf
+- AGM anouncement - https://lists.57north.org.uk/mailman3/hyperkitty/list/57north-announce@lists.57north.org.uk/thread/ZVGI66Z6E743WHFQRTOCR6UY6Y62ZH5W/
+- Last year's AGM minutes -  https://github.com/hackerdeen/meetings/blob/master/2021/2021-05-04%20AGM%20Minutes.md
+- 2021 year's Directors report -  https://github.com/hackerdeen/meetings/blob/master/2021/21-05-04-directors-report.md
+- Last year's treasurer's report - https://github.com/hackerdeen/meetings/blob/master/2021/Treasurers%20Report%20-%20YE%2028th%20February%202021.pdf
