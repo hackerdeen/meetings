@@ -8,7 +8,7 @@ This treasurers report covers two financial years, the period from the 1st of Ma
 We are still recognised as tax dormant to HMRC. This status will last either until April 2026 or until income 
 deriving from non-member sources execeeds an annual corporation tax liability of £100, whichever occurs first.
 
-We've had some issues with the bank, but those are more or less resolved now.
+We've had some issues with the bank, but those are more or less resolved now.  This, and the fact we didn't have an AGM last year, have made it more complex to do the financials than usual.
 
 
 ## Financial Summary
