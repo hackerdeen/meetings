@@ -16,7 +16,7 @@ Minutes: Wouter Piessens
 
 ## 3)  Report on activities since last AGM
 Hibby walks through the directors report. 
-He thanks all people involved with activities and would like to see more engagment from members to help out with recruitment of new members.
+He thanks all people involved with activities and would like to see more engagement from members to help out with recruitment of new members.
 See https://github.com/hackerdeen/meetings/blob/master/2023/2023%20Directors%20Report.md
 
 ## 4)  Treasurer's report
@@ -62,8 +62,8 @@ Vote:   Motion passed
 ## 10) Create a facility for remote membership, see https://github.com/hackerdeen/articles/issues/7
 
 Proposal is to introduce remote membership to anyone who resides over 80km from centre of Aberdeen, then they can apply for remote membership.
-Kevin asks if it is possbile to change this limitation to Aberdeen and Shire. 
-Tom rebuffs this and explains that the problem is that we are not able to act on proposals from members raised during the AGM and enact them straight away.  We require them to be put in agenda, which has to be announced 2 weeks before a meeting..
+Kevin asks if it is possible to change this limitation to Aberdeen and Shire. 
+Tom rebuffs this and explains that the problem is that we are not able to act on proposals from members raised during the AGM and enact them straight away. We require them to be put in agenda, which has to be announced 2 weeks before a meeting.
 
 Iain asks if there are any limitations on restrictive members? He addresses that there is risk of membership subsidy issues with HMRC for corporation tax.
 Hibby answers that members are able under the companies act.
@@ -95,7 +95,7 @@ Kevin Mulhern
 ## 14) Any Other Competent Business
 None
 
-## Refrences
+## References
 * https://wiki.57north.org.uk/doku.php?id=admin:agm_email
 * https://github.com/hackerdeen/articles
 * https://lists.57north.org.uk/mailman3/hyperkitty/list/57north-discuss@lists.57north.org.uk/thread/ZVGI66Z6E743WHFQRTOCR6UY6Y62ZH5W/
