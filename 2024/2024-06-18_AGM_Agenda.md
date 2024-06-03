@@ -21,4 +21,4 @@ Situated in the Hacklab's space in Suite H, Kettock Lodge, Innovation Park, Camp
 ## Refrences
 * https://wiki.57north.org.uk/doku.php?id=admin:agm_email
 * https://github.com/hackerdeen/articles
-* 
+* https://lists.57north.org.uk/mailman3/hyperkitty/list/57north-discuss@lists.57north.org.uk/thread/UHAUX2QVGMSSIEKVWYWG2EMSZVQBGMEE/
