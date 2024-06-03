@@ -14,7 +14,9 @@ Start time:
 Add text here...
 
 
-### 2) Previous AGM minutes, see https://github.com/hackerdeen/meetings/blob/master/2023/2023-04-04_AGM_Minutes.md
+### 2) Previous AGM minutes
+
+see https://github.com/hackerdeen/meetings/blob/master/2023/2023-04-04_AGM_Minutes.md
 
 Add text here...
 
