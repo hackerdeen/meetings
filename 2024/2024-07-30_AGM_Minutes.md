@@ -41,10 +41,16 @@ See [hackerdeen/articles#14]
 
 Add text here...
 
+Vote: TBC
+
 
 ### 6) Election of directors
 
 Add text here...
+
+All directors stand down
+
+New elected directors: TBC
 
 
 ### 7) Any Other Competent Business
