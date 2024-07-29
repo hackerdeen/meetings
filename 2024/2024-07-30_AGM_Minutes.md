@@ -1,4 +1,4 @@
-# AGM Agenda, Tuesday the 30th July 2024
+# AGM Minutes, Tuesday the 30th July 2024
 
 Situated in the Hacklab's space in Suite H, Kettock Lodge, Innovation Park, Campus Two, Bridge of Don, Aberdeen AB22 8GU.
 
@@ -35,7 +35,9 @@ See https://github.com/hackerdeen/meetings/blob/master/2024/2024%20Treasurers%20
 Add text here...
 
 
-### 5) Remove mention of PGP from the articles [hackerdeen/articles#14]
+### 5) Remove mention of PGP from the articles 
+
+See [hackerdeen/articles#14]
 
 Add text here...
 
