@@ -83,7 +83,7 @@ Expenditure by Month 1st March 2024 - 30th July 2024:
 * June: £4
 * July: £4
 
-![expenditure_fy_2024]((https://github.com/hackerdeen/meetings/blob/master/2024/graphs/Expenditure%202024.png)
+![expenditure_fy_2024](https://github.com/hackerdeen/meetings/blob/master/2024/graphs/Expenditure%202024.png)
 
 ## Accounts
 
