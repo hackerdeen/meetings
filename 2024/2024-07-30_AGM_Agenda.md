@@ -10,11 +10,8 @@ Situated in the Hacklab's space in Suite H, Kettock Lodge, Innovation Park, Camp
 3. Report on activities since last AGM, see https://github.com/hackerdeen/meetings/blob/master/2024/2024%20Directors%20Report.md
 4. Treasurer's report, see https://github.com/hackerdeen/meetings/blob/master/2024/2024%20Treasurers%20Report.md
 5. Remove mention of PGP from the articles [https://github.com/hackerdeen/articles/issues/14]
-6. TBC
-7. TBC
-8. TBC
-5. Election of directors
-6. Any Other Competent Business
+6. Election of directors
+7. Any Other Competent Business
 
 
 
