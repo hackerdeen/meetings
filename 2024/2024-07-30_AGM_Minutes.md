@@ -7,7 +7,7 @@ Attending Members:
 Start time:
 
 
-## Agenda for the meeting
+## Minutes for the meeting
 
 ### 1) Election of meeting chair
 
