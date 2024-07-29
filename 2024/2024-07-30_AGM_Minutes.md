@@ -1,4 +1,4 @@
-# AGM Agenda, Tuesday the 18th of June 2024.
+# AGM Agenda, Tuesday the 30th July 2024
 
 Situated in the Hacklab's space in Suite H, Kettock Lodge, Innovation Park, Campus Two, Bridge of Don, Aberdeen AB22 8GU.
 

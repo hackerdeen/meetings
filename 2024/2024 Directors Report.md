@@ -1,5 +1,8 @@
-Directors Report 2021-2023
+Directors Report 2023-2024
 ----------------
+
+This is the report of activities between the 2023 AGM (4th of April 2023) and the 2024 AGM (30th July 2024).
+
 
 ## 0) State of the Membership
 - We currently have 16 members on our register
@@ -13,7 +16,7 @@ Directors Report 2021-2023
 
 ## 1) 'Post Pandemic' Activities
 - Open Tuesday's have returned post pandemic in 2021
-- Winter party 2022 was a roaring success. Thanks go to Q for making it so busy and inviting their friends who helped remind some of us why running a hackerspace is such good fun.
+- Winter party 2023 was a roaring success. Thanks go to Q for making it so busy and inviting their friends who helped remind some of us why running a hackerspace is such good fun.
 - Monthly Consular Convention for Control & Prohibition of Pandemics were introduced in 2021.
 
 ## 2) Books, Tax & HMRC
@@ -43,9 +46,8 @@ Directors Report 2021-2023
 
 ## 6) Links and Refs
 Some useful links and references: 
+- 2024 year's treasurer's report - https://github.com/hackerdeen/meetings/blob/master/2024/2024%20Treasurers%20Report.md
+- 2023 year's AGM minutes - https://github.com/hackerdeen/meetings/blob/master/2023/2023-04-04_AGM_Minutes.md
+- 2023 year's Directors report - https://github.com/hackerdeen/meetings/blob/master/2023/2023%20Directors%20Report.md
 - 2023 year's treasurer's report - https://github.com/hackerdeen/meetings/blob/master/2023/2023%20Treasurers%20Report.md
-- AGM anouncement - https://lists.57north.org.uk/mailman3/hyperkitty/list/57north-announce@lists.57north.org.uk/thread/ZVGI66Z6E743WHFQRTOCR6UY6Y62ZH5W/
-- 2021 year's AGM minutes -  https://github.com/hackerdeen/meetings/blob/master/2021/2021-05-04%20AGM%20Minutes.md
-- 2021 year's Directors report -  https://github.com/hackerdeen/meetings/blob/master/2021/21-05-04-directors-report.md
-- 2021 year's treasurer's report - https://github.com/hackerdeen/meetings/blob/master/2021/Treasurers%20Report%20-%20YE%2028th%20February%202021.pdf
 - Our listing on Companies House - https://find-and-update.company-information.service.gov.uk/company/SC470230
