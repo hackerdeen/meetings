@@ -36,27 +36,12 @@ Add text here...
 Add text here...
 
 
-### 6) TBC
+### 6) Election of directors
 
 Add text here...
 
 
-### 7) TBC
-
-Add text here...
-
-
-### 8) TBC
-
-Add text here...
-
-
-### 14) Election of directors
-
-Add text here...
-
-
-### 14) Any Other Competent Business
+### 7) Any Other Competent Business
 
 Add text here...
 
