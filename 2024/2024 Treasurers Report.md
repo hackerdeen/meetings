@@ -43,7 +43,7 @@ Income by Month FY 2023/2024:
 * January: £230
 * February: £230
 
-![income_fy_2023-2024](graphs/Income\ 2023.png)
+![income_fy_2023-2024](https://github.com/hackerdeen/meetings/blob/master/2024/graphs/Income%202023.png)
 
 Income 1st March 2024-30th July 2024: £1,350
 
@@ -53,7 +53,7 @@ Income 1st March 2024-30th July 2024: £1,350
 * June: £230
 * July: £230
 
-![income_fy_2024](graphs/Income\ 2024.png)
+![income_fy_2024](https://github.com/hackerdeen/meetings/blob/master/2024/graphs/Income%202024.png)
 
 ## Expenditure
 
@@ -75,7 +75,7 @@ Expenditure by Month FY 2023/2024
 * February: £4
 * March: £3.85
 
-![expenditure_fy_2023-2024](graphs/Expenditure\ 2023.png)
+![expenditure_fy_2023-2024](https://github.com/hackerdeen/meetings/blob/master/2024/graphs/Expediture%202023.png)
 
 Expenditure by Month 1st March 2024 - 30th July 2024:
 * April: £4
