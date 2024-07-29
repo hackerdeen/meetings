@@ -102,7 +102,7 @@ Funds at end of Month FY 2023/2024:
 * January: £8,154
 * February: £8,380
 
-![funds_fy_2021-2022](https://user-images.githubusercontent.com/91541/229791779-f3046e89-80d9-4283-a474-3ea2f32503fd.png)
+![funds_fy_2021-2022](https://github.com/hackerdeen/meetings/blob/master/2024/graphs/Funds%202023.png)
 
 Funds by Month FY 2024-now:
 * April: £8,832
