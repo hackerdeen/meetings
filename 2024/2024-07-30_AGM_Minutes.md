@@ -23,10 +23,14 @@ Add text here...
 
 ### 3) Report on activities since last AGM
 
+see https://github.com/hackerdeen/meetings/blob/master/2024/2024%20Directors%20Report.md
+
 Add text here...
 
 
 ### 4) Treasurer's report
+
+see https://github.com/hackerdeen/meetings/blob/master/2024/2024%20Treasurers%20Report.md
 
 Add text here...
 
