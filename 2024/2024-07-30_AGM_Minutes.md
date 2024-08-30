@@ -2,7 +2,7 @@
 
 Situated in the Hacklab's space in Suite H, Kettock Lodge, Innovation Park, Campus Two, Bridge of Don, Aberdeen AB22 8GU.
 
-Start time:i 2:08
+Start time: 2:08
 
 Attending: Kev, Alex, Peter, Wouter, Rob, Andy, TJ, Iain, Phina, Ana
 
@@ -25,7 +25,7 @@ No Comments
 
 See https://github.com/hackerdeen/meetings/blob/master/2024/2024%20Directors%20Report.md
 
-Suggestion to being Pizza to AGM.
+Suggestion to bring Pizza to AGM.
 
 Section 3
 : We have a good relationship with AAD, sometime we have mess which we need to keep on top of.
