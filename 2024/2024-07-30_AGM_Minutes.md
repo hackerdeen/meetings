@@ -2,7 +2,7 @@
 
 Situated in the Hacklab's space in Suite H, Kettock Lodge, Innovation Park, Campus Two, Bridge of Don, Aberdeen AB22 8GU.
 
-Start time: 2:08
+Start time: 20:08
 
 Attending: Kev, Alex, Peter, Wouter, Rob, Andy, TJ, Iain, Phina, Ana
 
