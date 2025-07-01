@@ -40,7 +40,7 @@ Income by Month FY 2024/2025:
 
 Of Note: Remote member income has grown from £10/mo to £23/mo over this duration, just under 10% of income.
 
-![income_fy_2024-2025](./graphs/Income 2025.png)
+![income_fy_2024-2025](./graphs/Income%202025.png)
 
 Income 1st March 2025-20th June 2025: £1,150
 
@@ -50,8 +50,6 @@ Income 1st March 2025-20th June 2025: £1,150
 * June: £253
 
 Of Note: remote member income grew to £33/mo over this duration. 
-
-![income_fy_2025](./graphs/Income%202025.png)
 
 ## Expenditure
 
@@ -75,7 +73,7 @@ Expenditure by Month FY 2023/2024
 
 Of Note: The charity donation finally stabilised at £200/mo from December onwards.
 
-![expenditure_fy_2024-2025](./graphs/Expediture%202025.png)
+![expenditure_fy_2024-2025](./graphs/Expenditure%202025.png)
 
 Expenditure by Month 1st March 2025 - 30th June 2025:
 
@@ -83,8 +81,6 @@ Expenditure by Month 1st March 2025 - 30th June 2025:
 * April: £205
 * May: £253
 * June: £206
-
-![expenditure_fy_2025](./graphs/Expenditure%202025.png)
 
 ## Accounts
 
