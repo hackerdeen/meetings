@@ -40,7 +40,7 @@ Income by Month FY 2024/2025:
 
 Of Note: Remote member income has grown from £10/mo to £23/mo over this duration, just under 10% of income.
 
-![income_fy_2024-2025](./graphs/Income%202025.png)
+![income_fy_2024-2025](./graphs/Income 2025.png)
 
 Income 1st March 2025-20th June 2025: £1,150
 
