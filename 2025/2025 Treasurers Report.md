@@ -55,7 +55,7 @@ Of Note: remote member income grew to £33/mo over this duration.
 
 * Expenditure for 1st April 2023 to 30th June 2024: £4,015
 
-Expenditure by Month FY 2023/2024
+Expenditure by Month FY 2024/2025:
 
 * March: £4
 * April: £4
@@ -84,7 +84,7 @@ Expenditure by Month 1st March 2025 - 30th June 2025:
 
 ## Accounts
 
-Funds at end of Month FY 2023/2024:
+Funds at end of Month FY 2024/2025:
 
 * March: £8,606.55
 * April: £8,832.70
@@ -101,7 +101,7 @@ Funds at end of Month FY 2023/2024:
 
 ![funds_fy_2024-2025](./graphs/Funds%202025.png)
 
-Funds by Month FY 2024-now:
+Funds by Month FY 2025-now:
 
 * April: £8,715.25
 * May: £8,754.80
