@@ -4,33 +4,33 @@ Situated in the Hacklab's space in Suite H, Kettock Lodge, Innovation Park, Camp
 
 Start time: 20:21
 
-Attending: David L, Wouter, Mike O'H, David, AN, Peter, Rob, Owen, Hibby, Andy, Alex, TJ
+Attending: David L, Wouter, Mike O'H, David, AN, Peter, Rob, Owen, Hibby, Andy, Alex, TJ.
 
 ## Minutes for the meeting
 
 
 ### 1) Election of meeting chair
 
-Elected: Chair = Hibby. Minutes = Andy  
+Elected: Chair = Hibby, Minutes = Andy.
 
 
 ### 2) Previous AGM minutes
 
-Chair read the pervious AGM minutes (https://github.com/AndyGaskell/meetings/blob/master/2024/2024-07-30_AGM_Minutes.md)
+Chair read the pervious AGM minutes (https://github.com/AndyGaskell/meetings/blob/master/2024/2024-07-30_AGM_Minutes.md).
 
-No Comments or questions
+No Comments or questions.
 
 
 ### 3) Report on activities since last AGM
 
-Chair read the directors' report (https://github.com/hackerdeen/meetings/blob/master/2025/2025%20Directors%20Report.md)
+Chair read the directors' report (https://github.com/hackerdeen/meetings/blob/master/2025/2025%20Directors%20Report.md).
 
-No Comments or questions
+No Comments or questions.
 
 
 ### 4) Treasurer's report
 
-Chair read the treasurer's report (https://github.com/hackerdeen/meetings/blob/master/2025/2025%20Treasurers%20Report.md)
+Chair read the treasurer's report (https://github.com/hackerdeen/meetings/blob/master/2025/2025%20Treasurers%20Report.md).
 
 Andy: AAoD send a than you for every month donation
 
@@ -67,13 +67,13 @@ Stood down: TJ. Hibby, Andy, Kev, and Alex.
 
 Standing: TJ, Hibby, Andy, Alex and Nick.
 
-Election.
+Election, all standing are elected.
 
-Action (Andy): Inform Companies house of Director change (see https://find-and-update.company-information.service.gov.uk/company/SC470230/officers)
+Action (Andy): Inform Companies house of Director change (see https://find-and-update.company-information.service.gov.uk/company/SC470230/officers).
 
 
 ### 8) Any Other Competent Business
 
-None
+None.
 
 End time: 20:54 
