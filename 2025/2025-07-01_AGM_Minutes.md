@@ -43,7 +43,7 @@ Andy: AAoD having non ring fenced donations is helpful
 
 This was the first of two proposals for changes to the articles to simplify the working of the organisation, proposed by Alex.
 
-Rob mentioned the announcement of the proposal of changes was not made in sufiucient time (re item 39 and 41.1 of the articles) and could not really be considered at the AGM.
+Rob mentioned the announcement of the proposal of changes was not made in sufficient time (re item 39 and 41.1 of the articles) and could not really be considered at the AGM.
 
 There was an agreement in principle that simplification would be a positive thing, and we should try and do this in time for the next AGM or have an EGM re this.
 
@@ -55,6 +55,8 @@ Proposal not approved.
 This was the second of two proposals for changes to the articles to simplify the working of the organisation, proposed by Alex.
 
 Casusal discussion continued re item 6 as a continuation of item 5.
+
+As per item 5, the proposal of changes was not made in sufficient time (re item 39 and 41.1 of the articles) and could not really be considered at the AGM.
 
 On a show of hands, the majority present agreed on the general desire to simplify the articles and hence the workings of the organisation.
 
