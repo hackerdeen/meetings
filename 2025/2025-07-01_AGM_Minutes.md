@@ -61,11 +61,11 @@ On a show of hands, the majority present agreed on the general desire to simplif
 
 Stood down: TJ. Hibby, Andy, Kev, and Alex.
 
-Standing: TJ. Hibby, Andy, Alex and Nick.
+Standing: TJ, Hibby, Andy, Alex and Nick.
 
 Election.
 
-TODO (Andy): Inform Companies house of Director change.
+Action (Andy): Inform Companies house of Director change (see https://find-and-update.company-information.service.gov.uk/company/SC470230/officers)
 
 
 ### 8) Any Other Competent Business
