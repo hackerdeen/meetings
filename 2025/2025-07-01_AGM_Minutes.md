@@ -47,6 +47,8 @@ Rob mentioned the announcement of the proposal of changes was not made in sufiuc
 
 There was an agreement in principle that simplification would be a positive thing, and we should try and do this in time for the next AGM or have an EGM re this.
 
+Proposal not approved. 
+
 
 ### 6) Simplify the articles [hackerdeen/articles#18]
 
@@ -55,6 +57,8 @@ This was the second of two proposals for changes to the articles to simplify the
 Casusal discussion continued re item 6 as a continuation of item 5.
 
 On a show of hands, the majority present agreed on the general desire to simplify the articles and hence the workings of the organisation.
+
+Proposal not approved. 
 
 
 ### 7) Election of directors
