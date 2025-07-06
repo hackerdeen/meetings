@@ -34,7 +34,7 @@ Chair read the treasurer's report (https://github.com/hackerdeen/meetings/blob/m
 
 Andy: AAoD send a than you for every month donation
 
-Wouter: Community benefits, suggested to AAoD, Andy to mention 
+Wouter: Community benefits, NHS portal for charities, suggested it might be useful to AAoD, Andy to mention to them (see https://www.nss.nhs.scot/procurement-and-logistics/governance-and-sustainability-services/access-our-community-benefit-gateway/)
 
 Andy: AAoD having non ring fenced donations is helpful
 
