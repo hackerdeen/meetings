@@ -13,11 +13,13 @@ Attending: David L, Wouter, Mike O'H, David, AN, Peter, Rob, Owen, Hibby, Andy, 
 
 Elected: Chair = Hibby. Minutes = Andy  
 
+
 ### 2) Previous AGM minutes
 
 Chair read the pervious AGM minutes (https://github.com/AndyGaskell/meetings/blob/master/2024/2024-07-30_AGM_Minutes.md)
 
 No Comments or questions
+
 
 ### 3) Report on activities since last AGM
 
@@ -25,20 +27,34 @@ Chair read the directors' report (https://github.com/hackerdeen/meetings/blob/ma
 
 No Comments or questions
 
+
 ### 4) Treasurer's report
 
 Chair read the treasurer's report (https://github.com/hackerdeen/meetings/blob/master/2025/2025%20Treasurers%20Report.md)
 
-Andy: AAoD send a thanyou for every month donation
+Andy: AAoD send a than you for every month donation
 
-Wouter: Comunity benefits, suggested to AAoD, Andy to mention 
+Wouter: Community benefits, suggested to AAoD, Andy to mention 
 
 Andy: AAoD having non ring fenced donations is helpful
 
 
+### 5) Removal of requirement for an AGM [hackerdeen/articles#17]
+
+This was the first of two proposals for changes to the articles to simplify the working of the organisation, proposed by Alex.
+
+Rob mentioned the announcement of the proposal of changes was not made in sufiucient time (re item 39 and 41.1 of the articles) and could not really be considered at the AGM.
+
+There was an agreement in principle that simplification would be a positive thing, and we should try and do this in time for the next AGM or have an EGM re this.
 
 
+### 6) Simplify the articles [hackerdeen/articles#18]
 
+This was the second of two proposals for changes to the articles to simplify the working of the organisation, proposed by Alex.
+
+Casusal discussion continued re item 6 as a continuation of item 5.
+
+On a show of hands, the majority present agreed on the general desire to simplify the articles and hence the workings of the organisation.
 
 
 ### 7) Election of directors
@@ -57,11 +73,3 @@ TODO (Andy): Inform Companies house of Director change.
 None
 
 End time: 20:54 
-
-
-
-
-
-
-
-
