@@ -1,4 +1,4 @@
-# AGM Minutes, Tuesday the 30th July 2024
+# AGM Minutes, Tuesday the 1st of July 2025
 
 Situated in the Hacklab's space in Suite H, Kettock Lodge, Innovation Park, Campus Two, Bridge of Don, Aberdeen AB22 8GU.
 
