@@ -4,7 +4,7 @@ Situated in the Hacklab's space in Suite H, Kettock Lodge, Innovation Park, Camp
 
 Start time: 20:21
 
-Attending: David L, Wouter, Mike O'H, David, AN, Peter, Rob, Owen, Hibby, Andy, Alex, TJ.
+Attending members: Wouter, Mike O'H, AN, Peter, Rob, Owen, Hibby, Andy, Alex, TJ.
 
 ## Minutes for the meeting
 
